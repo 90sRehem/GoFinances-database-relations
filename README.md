@@ -93,7 +93,7 @@ yarn dev:server
 
 > 🚧 Esta API foi executada com êxito juntamente com o frontend do seguinte repositório: https://github.com/90sRehem/GoFinances, porém pode ser executada utilizando apenas o Insomnia REST Client para fazer as requisições.
 
-> ⚠️ Antes de rodar esta API, crie um banco de dados Postgres com o nome "gostack_desafio06_tests" para que todos os testes possam executar corretamente. Para mais informações sobre o banco de dados acesso o arquivo [ormconfig.json](ormconfig.json).
+> ⚠️ Antes de rodar esta API, crie um banco de dados Postgres com o nome "GoFinances-database" para que todos os testes possam executar corretamente. Para mais informações sobre o banco de dados acesso o arquivo [ormconfig.json](ormconfig.json).
 
 ## Licença
 [MIT](./LICENSE)
